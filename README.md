@@ -6,13 +6,21 @@ Dude... this thing will check the weather for you.  And then it will email you o
 
 # OK cool, how can I do
 get node
+
 get npm
+
 get redis http://redis.io/download
+
 run redis
+
 get this app
+
 issue the command:
-node server.js
-open localhost:3000
+
+`node server.js`
+
+`open http://localhost:3000`
+
 get your weather on
 
 
